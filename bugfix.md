@@ -1,1 +1,0 @@
-Bugs are fixed.
